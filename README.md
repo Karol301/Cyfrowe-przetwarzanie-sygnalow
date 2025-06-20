@@ -1,1 +1,1 @@
-# Cyfrowe-przetwarzanie-sygna-w
+# Cyfrowe-przetwarzanie-sygnałów
